@@ -1,11 +1,11 @@
 # README
 
 PROJET DE LA SEMAINE :
-    - Lundi sera consacré aux premières pages de l'application : quelques pages statiques et les pages potins
-    - Mardi sera consacré à la création d'un potin
-    - Mercredi sera consacré au CRUD complet des potins
-    - Jeudi sera consacré aux commentaires des potins, aux likes des potins, et à la gestion d'utilisateurs
-    - Vendredi sera consacré à l'identification des potins
+  - Lundi sera consacré aux premières pages de l'application : quelques pages statiques et les pages potins
+  - Mardi sera consacré à la création d'un potin
+  - Mercredi sera consacré au CRUD complet des potins
+  - Jeudi sera consacré aux commentaires des potins, aux likes des potins, et à la gestion d'utilisateurs
+  - Vendredi sera consacré à l'identification des potins
 
 
 ACTIONS DE JOUR:
